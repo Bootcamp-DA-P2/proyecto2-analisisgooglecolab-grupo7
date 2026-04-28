@@ -74,3 +74,7 @@ El notebook incluye el procesamiento final para obtener:
 3.  **Paises con mayor cantidad de prestamos:** Comparativa del volumen de prestamos por país.
 
 ---
+
+![alt text](image.png)
+
+![alt text](image-1.png)
