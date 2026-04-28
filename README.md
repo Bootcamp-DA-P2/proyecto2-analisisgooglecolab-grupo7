@@ -13,6 +13,14 @@ Este repositorio contiene el flujo de trabajo completo para la limpieza, transfo
 
 ---
 
+## Comparativa: Estado de los Datos (Antes y Después)
+
+![alt text](image-1.png)
+
+![alt text](image.png)
+
+---
+
 ## Flujo de Trabajo Detallado
 
 ### 1. Configuración y Diagnóstico Inicial
@@ -74,7 +82,3 @@ El notebook incluye el procesamiento final para obtener:
 3.  **Paises con mayor cantidad de prestamos:** Comparativa del volumen de prestamos por país.
 
 ---
-
-![alt text](image.png)
-
-![alt text](image-1.png)
